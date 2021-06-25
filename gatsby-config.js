@@ -10,4 +10,5 @@ module.exports = {
     `gatsby-plugin-mdx`,
     `gatsby-plugin-postcss`,
   ],
+  pathPrefix: `/gatsby-complex-mdx-pages`
 }
