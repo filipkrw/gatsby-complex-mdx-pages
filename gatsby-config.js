@@ -9,6 +9,7 @@ module.exports = {
     },
     `gatsby-plugin-mdx`,
     `gatsby-plugin-postcss`,
+    `gatsby-plugin-react-helmet`
   ],
   pathPrefix: `/gatsby-complex-mdx-pages`
 }
