@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-complex-mdx-pages",
+  "name": "gatsby-complex-mdx-pages-tutorial",
   "description": "Tutorial",
   "version": "0.1.0",
   "author": "Filip Krawczyk <filipkrw.dev@gmail.com>",
@@ -38,9 +38,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/filipkrw/gatsby-complex-mdx-pages"
+    "url": "https://github.com/filipkrw/gatsby-complex-mdx-pages-tutorial"
   },
   "bugs": {
-    "url": "https://github.com/filipkrw/gatsby-complex-mdx-pages/issues"
+    "url": "https://github.com/filipkrw/gatsby-complex-mdx-pages-tutorial/issues"
   }
 }

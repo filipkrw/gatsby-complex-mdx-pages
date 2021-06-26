@@ -11,5 +11,5 @@ module.exports = {
     `gatsby-plugin-postcss`,
     `gatsby-plugin-react-helmet`
   ],
-  pathPrefix: `/gatsby-complex-mdx-pages`
+  pathPrefix: `/gatsby-complex-mdx-pages-tutorial`
 }
