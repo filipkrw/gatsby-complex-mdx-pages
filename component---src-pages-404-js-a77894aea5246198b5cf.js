@@ -1,2 +1,0 @@
-(self.webpackChunkgatsby_complex_mdx_pages=self.webpackChunkgatsby_complex_mdx_pages||[]).push([[883],{9616:function(e,t,n){"use strict";n.r(t);var l=n(7294),s=n(2718),u=n(7740);t.default=function(){return l.createElement(s.Z,null,l.createElement("section",null,l.createElement(u.Z,null,"404: Not Found"),l.createElement("p",null,"You just hit a route that doesn't exist... the sadness.")))}}}]);
-//# sourceMappingURL=component---src-pages-404-js-a77894aea5246198b5cf.js.map
