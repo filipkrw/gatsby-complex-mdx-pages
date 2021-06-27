@@ -9,7 +9,7 @@ export default function Layout({ children }) {
       <div className="flex justify-center">
         <div className="max-w-[800px] w-full m-5">
           <Nav />
-          <section className="flex flex-col sm:flex-row justify-between my-5">
+          <section className="flex flex-col items-start sm:flex-row justify-between my-5">
             {children}
           </section>
         </div>
